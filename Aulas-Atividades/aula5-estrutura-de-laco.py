@@ -17,5 +17,6 @@ while i <= int(numero_convidados):
 print('\nSerão', numero_convidados, 'convidados para a Festa.')
 print('\nLista de Convidados:')
 
+#print('total de convidados: '+ str(len(lista_convidados))) #OUTRA OPÇÃO
 for convidado in lista_convidados:
     print(convidado)
