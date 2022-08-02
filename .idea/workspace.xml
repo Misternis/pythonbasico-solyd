@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fa3a1fc-6be2-474d-9add-f11eab17e7a1" name="Changes" comment="Nova opção de lista">
-      <change afterPath="$PROJECT_DIR$/Aulas-Atividades/aula6-estrutura-de-dados.py" afterDir="false" />
+    <list default="true" id="8fa3a1fc-6be2-474d-9add-f11eab17e7a1" name="Changes" comment="Atualização simples">
+      <change afterPath="$PROJECT_DIR$/Aulas-Atividades/aula7-funcoes-metodos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas-Atividades/aula4-strings-e-listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas-Atividades/aula4-strings-e-listas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
       <recent name="C:\Users\viniv\IdeaProjects\pythonbasico-solyd\Aulas-Atividades" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aula5-estrutura-de-laco">
+  <component name="RunManager" selected="Python.aula7-funcoes-metodos">
     <configuration name="aula1-introducao (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonbasico-solyd" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,27 +78,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas-Atividades/aula2-entrada-e-saida2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="aula2-entrada-e-saida2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonbasico-solyd" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\viniv\IdeaProjects\pythonbasico-solyd\Aulas-Atividades\aula2-entrada-e-saida2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,13 +128,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="aula7-funcoes-metodos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonbasico-solyd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas-Atividades" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas-Atividades/aula7-funcoes-metodos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula7-funcoes-metodos" />
         <item itemvalue="Python.aula5-estrutura-de-laco" />
         <item itemvalue="Python.aula3-operadores-logicos" />
         <item itemvalue="Python.aula1-introducao (1)" />
         <item itemvalue="Python.aula2-entrada-e-saida2 (1)" />
-        <item itemvalue="Python.aula2-entrada-e-saida2" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659387550453</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Atualização simples">
+      <created>1659408373161</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659408373161</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +230,7 @@
     <MESSAGE value="Aula 3 realizada, criação de um questionario com requisitos para entrada no exercito." />
     <MESSAGE value="Criação de um Programa de Controle de Convidados para Festa." />
     <MESSAGE value="Nova opção de lista" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nova opção de lista" />
+    <MESSAGE value="Atualização simples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização simples" />
   </component>
 </project>
