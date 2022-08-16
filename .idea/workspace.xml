@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fa3a1fc-6be2-474d-9add-f11eab17e7a1" name="Changes" comment="Atualização simples">
-      <change afterPath="$PROJECT_DIR$/Aulas-Atividades/aula7-funcoes-metodos.py" afterDir="false" />
+    <list default="true" id="8fa3a1fc-6be2-474d-9add-f11eab17e7a1" name="Changes" comment="FUNÇÃO QUE RECEBE UM OBJETO DE COLEÇÃO E RETORNA O VALOR MAIOR E MENOR DENTRO.">
+      <change afterPath="$PROJECT_DIR$/Aulas-Atividades/aula12-requisicoes-web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas-Atividades/aula13-api-lista-de-filmes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas-Atividades/aula8-passagem-de-argumentos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +37,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -43,8 +46,8 @@
       <recent name="C:\Users\viniv\IdeaProjects\pythonbasico-solyd\Aulas-Atividades" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aula7-funcoes-metodos">
-    <configuration name="aula1-introducao (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.aula13-api-lista-de-filmes">
+    <configuration name="aula12-requisicoes-web" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonbasico-solyd" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,7 +59,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas-Atividades/aula1-introducao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas-Atividades/aula12-requisicoes-web.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula2-entrada-e-saida2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula13-api-lista-de-filmes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonbasico-solyd" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,49 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas-Atividades/aula2-entrada-e-saida2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="aula3-operadores-logicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonbasico-solyd" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas-Atividades" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas-Atividades/aula3-operadores-logicos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="aula5-estrutura-de-laco" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonbasico-solyd" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas-Atividades" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas-Atividades/aula5-estrutura-de-laco.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas-Atividades/aula13-api-lista-de-filmes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,13 +110,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="aula8-passagem-de-argumentos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonbasico-solyd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas-Atividades" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas-Atividades/aula8-passagem-de-argumentos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="projeto-teste-tabuada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonbasico-solyd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas-Atividades" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\viniv\IdeaProjects\pythonbasico-solyd\Aulas-Atividades\projeto-teste-tabuada.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula13-api-lista-de-filmes" />
+        <item itemvalue="Python.aula12-requisicoes-web" />
+        <item itemvalue="Python.projeto-teste-tabuada" />
+        <item itemvalue="Python.aula8-passagem-de-argumentos" />
         <item itemvalue="Python.aula7-funcoes-metodos" />
-        <item itemvalue="Python.aula5-estrutura-de-laco" />
-        <item itemvalue="Python.aula3-operadores-logicos" />
-        <item itemvalue="Python.aula1-introducao (1)" />
-        <item itemvalue="Python.aula2-entrada-e-saida2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659408373161</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="FUNÇÃO QUE RECEBE UM OBJETO DE COLEÇÃO E RETORNA O VALOR MAIOR E MENOR DENTRO.">
+      <created>1659422120984</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659422120984</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +241,7 @@
     <MESSAGE value="Criação de um Programa de Controle de Convidados para Festa." />
     <MESSAGE value="Nova opção de lista" />
     <MESSAGE value="Atualização simples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização simples" />
+    <MESSAGE value="FUNÇÃO QUE RECEBE UM OBJETO DE COLEÇÃO E RETORNA O VALOR MAIOR E MENOR DENTRO." />
+    <option name="LAST_COMMIT_MESSAGE" value="FUNÇÃO QUE RECEBE UM OBJETO DE COLEÇÃO E RETORNA O VALOR MAIOR E MENOR DENTRO." />
   </component>
 </project>
