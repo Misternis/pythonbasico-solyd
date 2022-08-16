@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fa3a1fc-6be2-474d-9add-f11eab17e7a1" name="Changes" comment="FUNÇÃO QUE RECEBE UM OBJETO DE COLEÇÃO E RETORNA O VALOR MAIOR E MENOR DENTRO.">
-      <change afterPath="$PROJECT_DIR$/Aulas-Atividades/aula12-requisicoes-web.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas-Atividades/aula13-api-lista-de-filmes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas-Atividades/aula8-passagem-de-argumentos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8fa3a1fc-6be2-474d-9add-f11eab17e7a1" name="Changes" comment="Curso Python Básico da Solyd.">
+      <change beforePath="$PROJECT_DIR$/Aulas-Atividades/aula13-api-lista-de-filmes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas-Atividades/aula13-api-lista-de-filmes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659422120984</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Curso Python Básico da Solyd.">
+      <created>1660692230447</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660692230447</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,6 +246,7 @@
     <MESSAGE value="Nova opção de lista" />
     <MESSAGE value="Atualização simples" />
     <MESSAGE value="FUNÇÃO QUE RECEBE UM OBJETO DE COLEÇÃO E RETORNA O VALOR MAIOR E MENOR DENTRO." />
-    <option name="LAST_COMMIT_MESSAGE" value="FUNÇÃO QUE RECEBE UM OBJETO DE COLEÇÃO E RETORNA O VALOR MAIOR E MENOR DENTRO." />
+    <MESSAGE value="Curso Python Básico da Solyd." />
+    <option name="LAST_COMMIT_MESSAGE" value="Curso Python Básico da Solyd." />
   </component>
 </project>

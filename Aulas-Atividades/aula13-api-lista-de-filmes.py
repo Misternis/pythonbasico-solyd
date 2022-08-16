@@ -31,5 +31,3 @@ while not sair:
         print('Estes são os Filmes Encontrados: ', len(lista_de_filmes))
         for filme in lista_de_filmes:
             print(filme)
-
-breakpoint()
